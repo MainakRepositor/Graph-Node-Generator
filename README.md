@@ -19,3 +19,5 @@ Used to generate, add or delete nodes, link the nodes using a GUI based approach
 - Uses backtracking algorithm while finding the shortest path.
 - Node numbers and calculations based on the path traced are dynamic.
 
+## Creator of the Project:
+<td align="center"><a href="https://mainakfolio.netlify.app"><img src="https://avatars.githubusercontent.com/u/64016811?v=4" width="100px;" alt=""/><br /><sub><b>Mainak Chaudhuri</b></sub></a><br /><a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/" title="Linkedin">💬</a></td>
