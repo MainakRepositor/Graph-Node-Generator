@@ -20,4 +20,8 @@ Used to generate, add or delete nodes, link the nodes using a GUI based approach
 - Node numbers and calculations based on the path traced are dynamic.
 
 ## Creator of the Project:
-<td align="center"><a href="https://mainakfolio.netlify.app" target="_blank"><img src="https://avatars.githubusercontent.com/u/64016811?v=4" width="300px;" alt=""/><br /><sub><b>Mainak Chaudhuri</b></sub></a></td>
+
+<center>
+<td align="center"><a href="https://mainakfolio.netlify.app" target="_blank"><img src="https://avatars.githubusercontent.com/u/64016811?v=4" width="300px;" alt=""/><br/>
+  <b>Mainak Chaudhuri</b></a></td>
+</center>
