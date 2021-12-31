@@ -1,4 +1,4 @@
-# Node-Graph-Generator
+# Graph-Node-Generator
 Generate graphs from nodes using graph theorem and graph traversal algorithms
 
 ## Screenshot:
